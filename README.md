@@ -144,4 +144,8 @@ We will clone and build it from your GitHub repo. We will not get code from any 
     * 1 pt: Figure out how to turn on "Show layout bounds" in Developer options, and take a video of your device with that setting turned on. (This is helpful when debugging layout issues in your apps.)
     * 1 pt: Choose another developer option from the Developer Options screen, research what it's used for, and write up a quick paragraph (in your copy of this README file) on whether you believe you will use this feature during class this quarter.
 
+**Show crash dialog**
+A developer option to allow developers to control how the system handles application crashes. When this option is enabled, a dialog box or pop-up will be displayed whenever an app crashes or encounters a serious error.
+I think I might need this feature for viewing the information for application crash in the emulator.
+
 When you turn in the homework in Canvas, put in the link to your GitHub repo.
